@@ -1,0 +1,24 @@
+.banner{
+    background-color: #4d00ff;
+    color: white;
+    margin-top: 75px;
+    text-align:  center;
+    padding:100px 0;
+}
+
+#small-gritty {
+     height:10%;
+     width: 10%;
+
+} 
+
+#gritter {    
+color:#4D00FF;
+font-size: 100px;
+}  
+
+
+
+.bold {
+    font-weight: 900;
+}
